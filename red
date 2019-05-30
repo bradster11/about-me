@@ -1,0 +1,2 @@
+
+favorite color is red
